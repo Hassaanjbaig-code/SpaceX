@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo](https://space-travelers-hub-64gl.onrender.com/)
+- [Live Demo](https://space-x-self-beta.vercel.app/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
